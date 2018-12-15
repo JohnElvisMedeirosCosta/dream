@@ -1,3 +1,3 @@
 <?php
-	testeste
+	testes
 ?>
